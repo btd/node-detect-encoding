@@ -1,0 +1,25 @@
+{
+  "name": "detect-encoding",
+  "version": "0.0.1",
+  "main": "./detect-encoding.js",
+  "description": "Simple binding for ICU charset detector",
+  "keywords": [
+    "encoding-detection",
+    "icu"
+  ],
+  "repository": {
+    "type": "git",
+    "path": "git://github.com/btd/node-detect-encoding.git"
+  },
+  "homepage": "http://github.com/btd/node-detect-encoding",
+  "bugs": "http://github.com/btd/node-detect-encoding/issues",
+  "author": {
+    "name": "Denis Bardadym",
+    "email": "bardadymchik@gmail.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
