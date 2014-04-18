@@ -1,3 +1,3 @@
-var detectEncoding = require("./build/Release/node-icu-charset-detector").detectEncoding;
+var detectEncoding = require("./build/Release/detect-encoding.node").detectEncoding;
 
 module.exports = detectEncoding;

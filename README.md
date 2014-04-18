@@ -8,6 +8,12 @@ In your `$PATH` `icu-config` should be available.
 
     npm install detect-encoding
 
+#### Ubuntu
+
+```
+apt-get install libicu-dev
+```
+
 #### OSX
 
 * Brew
