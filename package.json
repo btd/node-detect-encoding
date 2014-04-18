@@ -1,6 +1,6 @@
 {
   "name": "detect-encoding",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "./detect-encoding.js",
   "description": "Simple binding for ICU charset detector",
   "keywords": [

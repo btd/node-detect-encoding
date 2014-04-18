@@ -1,3 +1,3 @@
-var detectEncoding = require("./build/Release/detect-encoding.node").detectEncoding;
+var detectEncoding = require("./build/Release/detect_encoding").detectEncoding;
 
 module.exports = detectEncoding;

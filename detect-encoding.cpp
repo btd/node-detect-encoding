@@ -141,5 +141,5 @@ extern "C" {
           FunctionTemplate::New(DetectTextEncoding)->GetFunction());
   }
 
-  NODE_MODULE(node_icu_charset_detector, init);
+  NODE_MODULE(detect_encoding, init);
 }
