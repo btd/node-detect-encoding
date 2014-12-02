@@ -23,6 +23,12 @@ brew install icu4c
 export PATH=$PATH:/usr/local/Cellar/icu4c/52.1 #take a look which version you have
 ```
 
+* MacPorts
+
+```
+sudo port install icu
+```
+
 ## Usage
 
 ### Simple usage
